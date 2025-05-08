@@ -2,7 +2,7 @@
 
 > <h3><a href="https://youtu.be/PxHkKLUk_QM" target="_blank">Project Video Demonstration</a></h3>
 
-> <h3><a href="https://drive.google.com/open?id=1H5RjHPJ0CK5yq2_3vwwo4CwZt1NXTeVB">Project Report</a></h3>
+> <h3><a href="[https://drive.google.com/open?id=1H5RjHPJ0CK5yq2_3vwwo4CwZt1NXTeVB](https://drive.google.com/file/d/1cBDqMUuAhvBVD3VfD1DSNjLvx2houv_a/view?usp=sharing)">Project Report</a></h3>
 
 > <h3><a href="https://drive.google.com/open?id=1l46H2pNTbLLcIFSHWsMtor-vlvNSA4Gu">Project Slide</a></h3>
 
